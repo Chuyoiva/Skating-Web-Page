@@ -1,0 +1,9 @@
+div.sectionDark{
+    background-color:rgb(206, 206, 206);
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
